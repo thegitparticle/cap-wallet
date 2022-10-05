@@ -7,21 +7,14 @@ export default function App() {
 
 	return (
 		<NavigationContainer>
-			<Stack.Navigator
-				screenOptions={{
-					headerStyle: {
-						backgroundColor: "#222",
-					},
-					headerTintColor: "#fff",
-					headerTitleStyle: {
-						fontWeight: "bold",
-					},
-				}}
-			>
+			<Stack.Navigator>
 				<Stack.Screen
 					name="LandingScreen"
 					component={LandingScreen}
-					options={{ title: "Cap Wallet" }}
+					options={{
+						gestureEnabled: true,
+						headerShown: false,
+					}}
 				/>
 			</Stack.Navigator>
 		</NavigationContainer>
