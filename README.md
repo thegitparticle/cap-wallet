@@ -5,7 +5,7 @@ Most existing wallets offer stright forward functionality and the interface has 
 
 Few pointers about Cap
 
--   All Cap experiments will be run on the Aptos blockchain for now.
+-   All Cap experiments will be run on the Aptos or Sui blockchain for now.
 -   Cap will not launch a wallet which looks and works the same way most traditional crypto wallets do. (If you are looking for an Aptos wallet to use now - Martian and Petra are good choices).
 -   Cap will be designed and developed with a mobile-first mindset.
 
@@ -14,7 +14,7 @@ Few pointers about Cap
 1. The plan is to design and devlop a new kind of crypto wallet that will focus more making it is to use dapps, decentralized games and be simple for the masses.
 2. Will start designing various ideas about how crypto wallet could be better, and updating this README about any progress.
 3. If you have any idea or design to share, open an issue using the "idea" tag.
-4. Currently, all ideas will be experimented on the Aptos blockchain only.
+4. Currently, all ideas will be experimented on one of the newer blockchains which aim for high scale before PM fit of the project. Later, other blockchain support could be added by feature extension or forking.
 
 ### **What Cap is and isn't?**
 
